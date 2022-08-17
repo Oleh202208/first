@@ -1,4 +1,8 @@
-body{
-    background-color: #fff;
-    color: #254725;
+
+
+
+
+.title {
+    ccolor: #ffffff;
+    text-shadow: 2px 2px 20px #ff0000, 5px 5px 5px #000000;
 }
